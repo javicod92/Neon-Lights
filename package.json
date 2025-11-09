@@ -1,0 +1,21 @@
+{
+  "name": "neon-lights",
+  "displayName": "Neon Lights",
+  "description": "Theme for Vs Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Lights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights-color-theme.json"
+      }
+    ]
+  }
+}
