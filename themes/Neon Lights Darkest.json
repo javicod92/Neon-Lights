@@ -1,8 +1,8 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Neon Lights Default",
+  "name": "Neon Lights Darkest",
   "colors": {
-    "editor.background": "#101111",
+    "editor.background": "#0d0e0e",
     "editor.foreground": "#E4E4E4",
 
     "activityBar.background": "#0d0d0d",
@@ -100,7 +100,7 @@
         "text.xml punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#C0E92D"
+        "foreground": "#b5e700"
       }
     },
     {
@@ -166,7 +166,7 @@
         "markup.deleted"
       ],
       "settings": {
-        "foreground": "#e96f1d"
+        "foreground": "#e95d00"
       }
     },
     {
@@ -184,7 +184,7 @@
         "text.html string"
       ],
       "settings": {
-        "foreground": "#c0e92d"
+        "foreground": "#b5e700"
       }
     },
     {
