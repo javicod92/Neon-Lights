@@ -6,15 +6,21 @@
   "engines": {
     "vscode": "^1.105.0"
   },
+  "icon": "./icon.png",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Neon Lights",
+        "label": "Neon Lights Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/Neon Lights-color-theme.json"
+        "path": "./themes/Neon Lights Default.json"
+      },
+      {
+        "label": "Neon Lights Darkest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights Darkest.json"
       }
     ]
   }
