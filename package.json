@@ -2,7 +2,13 @@
   "name": "neon-lights",
   "displayName": "Neon Lights",
   "description": "Theme for Vs Code",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "javicod92",
+  "author": {
+    "name": "Javier Codutti",
+    "email": "javi.javier.jc@gmail.com",
+    "url": "https://github.com/javicod92"
+  },
   "engines": {
     "vscode": "^1.105.0"
   },
