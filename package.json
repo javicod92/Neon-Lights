@@ -42,6 +42,11 @@
         "label": "Neon Lights - Mint",
         "uiTheme": "vs-dark",
         "path": "./themes/Neon Lights - Mint.json"
+      },
+      {
+        "label": "Neon Lights - Cyber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights - Cyber.json"
       }
     ]
   }
