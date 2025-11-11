@@ -37,6 +37,11 @@
         "label": "Neon Lights - Neon Pulse Darkest",
         "uiTheme": "vs-dark",
         "path": "./themes/Neon Lights - Neon Pulse Darkest.json"
+      },
+      {
+        "label": "Neon Lights - Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights - Mint.json"
       }
     ]
   }
