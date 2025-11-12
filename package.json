@@ -39,9 +39,24 @@
         "path": "./themes/Neon Lights - Neon Pulse Darkest.json"
       },
       {
-        "label": "Neon Lights - Mint",
+        "label": "Neon Lights - Neon City Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/Neon Lights - Mint.json"
+        "path": "./themes/Neon Lights - Neon City Default.json"
+      },
+      {
+        "label": "Neon Lights - Neon City Darkest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights - Neon City Darkest.json"
+      },
+      {
+        "label": "Neon Lights - Mint Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights - Mint Default.json"
+      },
+      {
+        "label": "Neon Lights - Mint Darkest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights - Mint Darkest.json"
       },
       {
         "label": "Neon Lights - Cyber",

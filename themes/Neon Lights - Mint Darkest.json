@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Neon Lights - Mint",
+  "name": "Neon Lights - Mint Darkest",
   "colors": {
     "editor.background": "#151817",
     "editor.foreground": "#E4E4E4",
