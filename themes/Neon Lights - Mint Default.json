@@ -147,6 +147,20 @@
       }
     },
     {
+      "scope": ["storage.type.function"],
+      "settings": {
+        "foreground": "#eb0a7a",
+        "fontStyle": "bold underline"
+      }
+    },
+    {
+      "scope": ["storage.type.function.arrow"],
+      "settings": {
+        "foreground": "#eb0a7a",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "scope": ["string.regexp", "markup.changed"],
       "settings": {
         "foreground": "#D0FF00"
