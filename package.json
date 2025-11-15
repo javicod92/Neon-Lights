@@ -62,6 +62,16 @@
         "label": "Neon Lights - Cyber",
         "uiTheme": "vs-dark",
         "path": "./themes/Neon Lights - Cyber.json"
+      },
+      {
+        "label": "Neon Lights - Cherry Mint Darkest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights - Cherry Mint Darkest.json"
+      },
+      {
+        "label": "Neon Lights - Cherry Mint Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Lights - Cherry Mint Default.json"
       }
     ]
   }
