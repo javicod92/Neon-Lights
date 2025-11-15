@@ -60,7 +60,14 @@
         "meta.structure.dictionary.json support.type.property-name"
       ],
       "settings": {
-        "foreground": "#5ae7c4"
+        "foreground": "#68dabd"
+      }
+    },
+    {
+      "scope": ["meta.object-literal.key"],
+      "settings": {
+        "foreground": "#e6e5ab",
+        "fontStyle": "bold"
       }
     },
     {
