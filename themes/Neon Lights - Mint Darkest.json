@@ -147,7 +147,8 @@
         "source.js support.type"
       ],
       "settings": {
-        "foreground": "#00d6ba"
+        "foreground": "#00d6ba",
+        "fontStyle": "bold"
       }
     },
     {
