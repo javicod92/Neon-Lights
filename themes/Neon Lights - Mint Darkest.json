@@ -7,7 +7,7 @@
 
     "activityBar.background": "#0d0d0d",
     "activityBar.foreground": "#e4e4e4",
-    "activityBarBadge.background": "#00756f",
+    "activityBarBadge.background": "#00a79e",
     "activityBarBadge.foreground": "#ffffff",
 
     "sideBar.background": "#121212",
@@ -238,7 +238,7 @@
     {
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#e0d698"
+        "foreground": "#dad3a6"
       }
     }
   ]
