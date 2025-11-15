@@ -234,6 +234,12 @@
       "settings": {
         "foreground": "#B267E6"
       }
+    },
+    {
+      "scope": ["meta.object-literal.key"],
+      "settings": {
+        "foreground": "#e0d698"
+      }
     }
   ]
 }
