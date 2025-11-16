@@ -56,7 +56,7 @@
         "meta.structure.dictionary.json support.type.property-name"
       ],
       "settings": {
-        "foreground": "#f0eee5"
+        "foreground": "#d1d1d1"
       }
     },
     {
@@ -215,6 +215,25 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#B267E6"
+      }
+    },
+    {
+      "scope": ["meta.object-literal.key"],
+      "settings": {
+        "foreground": "#cfcf9f"
+      }
+    },
+    {
+      "scope": ["storage.type.function"],
+      "settings": {
+        "foreground": "#ff004c",
+        "fontStyle": "bold underline"
+      }
+    },
+    {
+      "scope": ["storage.type.function.arrow"],
+      "settings": {
+        "fontStyle": "bold"
       }
     }
   ]
