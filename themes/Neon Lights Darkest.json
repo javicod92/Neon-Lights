@@ -70,7 +70,6 @@
         "support.constant.core.php",
         "fenced_code.block.language",
         "constant.other.caps.python",
-        "entity.other.attribute-name",
         "support.type.exception.python",
         "source.css keyword.other.unit",
         "variable.other.object.property.js.jsx",
@@ -89,7 +88,6 @@
         "meta.at-rule.extend",
         "entity.name.function",
         "support.type.primitive",
-        "entity.other.attribute-name",
         "entity.other.inherited-class",
         "entity.other.keyframe-offset.css",
         "text.html.markdown string.quoted",
@@ -234,6 +232,12 @@
       "scope": ["storage.type.function.arrow"],
       "settings": {
         "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#FFE66D"
       }
     }
   ]
