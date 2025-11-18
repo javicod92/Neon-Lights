@@ -66,8 +66,7 @@
     {
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#e6e5ab",
-        "fontStyle": "bold"
+        "foreground": "#e6e5ab"
       }
     },
     {
@@ -161,14 +160,14 @@
       "scope": ["storage.type.function"],
       "settings": {
         "foreground": "#eb0a7a",
-        "fontStyle": "bold underline"
+        "fontStyle": "underline"
       }
     },
     {
       "scope": ["storage.type.function.arrow"],
       "settings": {
         "foreground": "#eb0a7a",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {

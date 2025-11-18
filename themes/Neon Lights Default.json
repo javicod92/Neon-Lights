@@ -227,13 +227,13 @@
       "scope": ["storage.type.function"],
       "settings": {
         "foreground": "#ff004c",
-        "fontStyle": "bold underline"
+        "fontStyle": "underline"
       }
     },
     {
       "scope": ["storage.type.function.arrow"],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     }
   ]

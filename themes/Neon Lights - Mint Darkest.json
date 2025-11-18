@@ -147,22 +147,21 @@
         "source.js support.type"
       ],
       "settings": {
-        "foreground": "#00d6ba",
-        "fontStyle": "bold"
+        "foreground": "#00d6ba"
       }
     },
     {
       "scope": ["storage.type.function"],
       "settings": {
         "foreground": "#eb0a7a",
-        "fontStyle": "bold underline"
+        "fontStyle": "underline"
       }
     },
     {
       "scope": ["storage.type.function.arrow"],
       "settings": {
         "foreground": "#eb0a7a",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
