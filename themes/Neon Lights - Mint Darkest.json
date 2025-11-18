@@ -242,8 +242,7 @@
     {
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#FFE66D",
-        "fontStyle": "bold"
+        "foreground": "#FFE66D"
       }
     }
   ]
